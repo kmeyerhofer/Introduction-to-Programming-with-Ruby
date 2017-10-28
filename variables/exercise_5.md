@@ -1,4 +1,5 @@
-```x = 0
+```
+x = 0
 3.times do
   x += 1
 end
@@ -8,7 +9,8 @@ puts x
 x is equal to 3.
 
 
-```y = 0
+```
+y = 0
 3.times do
   y += 1
   x = y
